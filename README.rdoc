@@ -1,0 +1,4 @@
+# Plugin for Redmine 'IssueDocs'
+
+Creates a new Google document while creating a new issue in Redmine and puts share link for the doc to Custom field of the issue 
+
